@@ -1,7 +1,9 @@
  ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
  
-## Aim: To  configure  the Network server and end device for traferring data on the network
-## Components required: end node stm 32 development kit , dragino LPS8, network server 
+## Aim: 
+To  configure  the Network server and end device for traferring data on the network
+## Components required: 
+End node stm 32 development kit , dragino LPS8, network server 
 
 ## Theory :
 When working with sensitive applications or files, saving progress on your local device is a start, but what if you lose access to your device? Network servers address this problem by hosting the files and programs most pertinent to the network and enabling access for consistent, real-time use. 
@@ -30,6 +32,7 @@ Permissioned access and log-ins for network users Gateway access to the Internet
 ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/1fb72be5-e48d-4cde-a329-0cfb0d29070f)
 6. add the attributesin the end device as  shown below 
  ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/00bff30b-42fc-42d5-9540-285d270e41cb)
+
 7.using AT commands configure end device in serial port utility
 AT Commands to set initially (Mandatory)
  AT+FDR // To do factory data reset
@@ -47,7 +50,19 @@ To set APP Key
 
 
 ## OUTPUT 
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/858435f2-2f59-435d-ad3f-7ecd377bd0da)
+### Home Page
+![Screenshot 2024-10-26 102316](https://github.com/user-attachments/assets/bec0e82b-0680-4be2-975e-017e32795c0b)
+### Gateway
+![Screenshot 2024-10-26 104602](https://github.com/user-attachments/assets/311a92ba-a87d-42d7-9d51-fe5dea0736f4)
+![Screenshot 2024-10-26 104632](https://github.com/user-attachments/assets/816e8192-b69d-4cf6-98ff-ea63877a419a)
+### Channel
+![Screenshot 2024-10-26 105212](https://github.com/user-attachments/assets/043490f2-8434-461c-bcda-c02680e1c5be)
+### End Device
+![Screenshot 2024-10-26 111002](https://github.com/user-attachments/assets/5731b3a2-bfe6-434c-8116-69e3f975bd64)
+![Screenshot 2024-10-26 111016](https://github.com/user-attachments/assets/a3dba77a-332e-4211-a946-de50e00d7764)
+![Screenshot 2024-10-26 111614](https://github.com/user-attachments/assets/62bf2de7-37a5-4c3b-b667-430e6b6be264)
+
+
 
 
 
